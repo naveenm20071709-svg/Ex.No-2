@@ -1,4 +1,4 @@
-<img width="686" height="585" alt="549186186-38d0768b-76f8-4199-b1ac-4ad6d23d26bd" src="https://github.com/user-attachments/assets/ca43b94b-6957-4c97-9359-cfb58517d948" /># Ex.No :2
+# Ex.No :2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Register Number:212225230198
 ## Date:20/11/2026
